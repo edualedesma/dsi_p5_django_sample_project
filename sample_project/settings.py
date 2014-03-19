@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 # Django settings for sample_project project.
 
 DEBUG = True
@@ -111,6 +112,7 @@ TEMPLATE_DIRS = (
     # Put strings here, like "/home/html/django_templates" or "C:/www/django/templates".
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
+    "/Users/Edinho/Documents/Universidad/Grado/2013-14/Segundo cuatrimestre/Tercero/Desarrollo de Sistemas Informáticos/compartida_dsi/proyectos_django/p5_sample_app/my_app/templates"
 )
 
 INSTALLED_APPS = (
